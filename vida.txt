@@ -1,0 +1,4 @@
+La cantidad de sangre del tanque en la posición 0 0 es 10
+La cantidad de sangre del tanque en la posición 0 1 es 10
+La cantidad de sangre del tanque en la posición 1 0 es 10
+La cantidad de sangre del tanque en la posición 1 1 es 10
